@@ -14,6 +14,7 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<ResourceLink global="jdbc/I_119062" name="jdbc/I_119062" type="javax.sql.DataSource"/>
 <Context>
+
+<ResourceLink global="jdbc/I_119062" name="jdbc/I_119062" type="javax.sql.DataSource"/>
 </Context>
