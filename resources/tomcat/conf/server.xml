@@ -32,6 +32,6 @@
         </Engine>
     </Service>
  <GlobalNamingResources>
-    <Resource auth="Container" driverClassName="com.ibm.db2.jcc.DB2Driver" name="jdbc/I_119062" password="pnkh79c7mzad" type="javax.sql.DataSource" url="jdbc:db2://23.246.228.241:50000/I_119062" username="qxxnnkul"/>
+    <Resource auth="Container" driverClassName="com.ibm.db2.jcc.DB2Driver" name="jdbc/I_370790" password="56kdvq7w7gvf" type="javax.sql.DataSource" url="jdbc:db2://192.155.240.180:50000/I_370790" username="psywspoa"/>
   </GlobalNamingResources>
 </Server>

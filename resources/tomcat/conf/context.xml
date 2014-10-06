@@ -16,5 +16,5 @@
   -->
 <Context>
 
-<ResourceLink global="jdbc/I_119062" name="jdbc/I_119062" type="javax.sql.DataSource"/>
+<ResourceLink global="jdbc/I_370790" name="jdbc/I_370790" type="javax.sql.DataSource"/>
 </Context>
